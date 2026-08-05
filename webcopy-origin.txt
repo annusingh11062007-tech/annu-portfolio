@@ -1,0 +1,164 @@
+Uri: https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js
+File Name: C:\Downloaded Web Sites\themewagon.github.io\npm\alpinejs@3.x.x\dist\cdn.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.tailwindcss.com/3.4.17
+File Name: C:\Downloaded Web Sites\themewagon.github.io\3.4.17
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500&display=swap
+File Name: C:\Downloaded Web Sites\themewagon.github.io\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap
+File Name: C:\Downloaded Web Sites\themewagon.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\themewagon.github.io\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\themewagon.github.io\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\themewagon.github.io\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v18/jizaRExUiTo99u79P0U.ttf
+File Name: C:\Downloaded Web Sites\themewagon.github.io\s\ptsans\v18\jizaRExUiTo99u79P0U.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v18/jizfRExUiTo99u79B_mh4Ok.ttf
+File Name: C:\Downloaded Web Sites\themewagon.github.io\s\ptsans\v18\jizfRExUiTo99u79B_mh4Ok.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsans/v18/jizYRExUiTo99u79D0eEwA.ttf
+File Name: C:\Downloaded Web Sites\themewagon.github.io\s\ptsans\v18\jizYRExUiTo99u79D0eEwA.ttf
+Content Type: font/ttf
+
+Uri: https://i.pravatar.cc/80?img=11
+File Name: C:\Downloaded Web Sites\themewagon.github.io\80
+Content Type: image/jpeg
+
+Uri: https://i.pravatar.cc/80?img=47
+File Name: C:\Downloaded Web Sites\themewagon.github.io\80-2
+Content Type: image/jpeg
+
+Uri: https://i.pravatar.cc/80?img=52
+File Name: C:\Downloaded Web Sites\themewagon.github.io\80-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1460925895917-afdab827c52f-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1460925895917-afdab827c52f-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1460925895917-afdab827c52f
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1485827404703-89b55fcc595e
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1498050108023-c5249f4df085
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1504639725590-34d0984388bd
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1507003211169-0a1dd7228f2d-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1507003211169-0a1dd7228f2d-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1507003211169-0a1dd7228f2d
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1551434678-e076c223a692?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1551434678-e076c223a692
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1400&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1551650975-87deedd944c3-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1551650975-87deedd944c3?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1551650975-87deedd944c3-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1551650975-87deedd944c3?w=900&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1551650975-87deedd944c3
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1555066931-4365d14bab8c-2
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1555066931-4365d14bab8c
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1555066931-4365d14bab8c-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1556228578-0d85b1a4d571
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1581291518633-83b4ebd1d83e
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1581472723648-909f4851d4ae?w=1200&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1581472723648-909f4851d4ae
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1587620962725-abab7fe55159
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=700&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1618005182384-a83a8bd57fbe-1
+Content Type: image/jpeg
+
+Uri: https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80
+File Name: C:\Downloaded Web Sites\themewagon.github.io\photo-1618005182384-a83a8bd57fbe
+Content Type: image/jpeg
+
+Uri: https://themewagon.github.io/folio-tailwind/
+File Name: C:\Downloaded Web Sites\themewagon.github.io\folio-tailwind\index.htm
+Content Type: text/html
+
+Uri: https://themewagon.github.io/folio-tailwind/blog-article.html
+File Name: C:\Downloaded Web Sites\themewagon.github.io\folio-tailwind\blog-article.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/folio-tailwind/blog.html
+File Name: C:\Downloaded Web Sites\themewagon.github.io\folio-tailwind\blog.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/folio-tailwind/case-study.html
+File Name: C:\Downloaded Web Sites\themewagon.github.io\folio-tailwind\case-study.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/folio-tailwind/index.html
+File Name: C:\Downloaded Web Sites\themewagon.github.io\folio-tailwind\index.html
+Content Type: text/html
+
+Uri: https://themewagon.github.io/folio-tailwind/projects.html
+File Name: C:\Downloaded Web Sites\themewagon.github.io\folio-tailwind\projects.html
+Content Type: text/html
+
